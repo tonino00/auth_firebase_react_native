@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/toninos/Documentos/Projetos/auth0/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/toninos/Documentos/Projetos/auth0/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/toninos/Documentos/Projetos/auth/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/toninos/Documentos/Projetos/auth/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]
